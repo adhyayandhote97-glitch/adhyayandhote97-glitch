@@ -1,11 +1,10 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1d3a,100:fca311&height=200&section=header&text=Adhyayan%20Dhote&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aerospace%20%7C%20Electronics%20%7C%20Code&descAlignY=58&descSize=18" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1d3a,100:fca311&height=200&section=header&text=Tetralux-1&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aerospace%20%7C%20Electronics%20%7C%20Code&descAlignY=58&descSize=18" alt="header"/>
 </p>
 
 <!-- Social links -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/adhyayan-dhote-037985293/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:adhyayandhote97@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
